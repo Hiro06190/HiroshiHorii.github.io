@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
   I am a currently postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I am studying the periodic behavior of a dynamical system and the derivation of the macroscopic equation by using microscopic models.
   
   
-  I did my Ph.D. at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite time large deviation theory and a heavy-tailed renewal process.
+  I did my Ph.D. at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
   
   Here is my [Ph.D. thesis](https://Hiro06190.github.io/HiroshiHorii.github.io/Doctoral_dissertation_Horii.pdf).
   
@@ -73,6 +73,20 @@ content:
         - Studying the dynamical systems, bifurcation theory, the method of characteristic, and numerical simulation.
         
         - Studying universal property in machine learning methods.
+        
+ - title: Publications
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      
+        - Large Time Asymptotic of Heavy Tailed Renewal Processes. [link](https://link.springer.com/article/10.1007/s10955-021-02856-5)
+        
+        - Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions[link](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034130)
+        
+        I have experience that I joined nuclear physics experiment.
+        - Chiral symmetry restoration at high matter density observed in pionic atoms[link](https://www.nature.com/articles/s41567-023-02001-x)
+        - Precision spectroscopy of pionic atoms and chiral symmetry in nuclei[link](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
+        
+
 
       
       
