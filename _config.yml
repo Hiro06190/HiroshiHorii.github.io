@@ -78,20 +78,20 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       
-        - <font size="4">Large Time Asymptotic of Heavy Tailed Renewal Processes.</font>
+        - <font size="4.5" style="font-weight: bold;">Large Time Asymptotic of Heavy Tailed Renewal Processes.</font>
           
           Journal of Statistical Physics 186, 11 [[link]](https://link.springer.com/article/10.1007/s10955-021-02856-5)
         
-        - <font size="4">Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions</font>
+        - <font size="4.5" style="font-weight: bold;">Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions</font>
           
           PHYSICAL REVIEW E 106 (3), 034130[[link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034130)
         
         I have experience that I joined nuclear physics experiment.
-        - <font size="4">Chiral symmetry restoration at high matter density observed in pionic atoms</font>
+        - <font size="4.5" style="font-weight: bold;">Chiral symmetry restoration at high matter density observed in pionic atoms</font>
           
           Nature Physics 19 (6), 788-793[[link]](https://www.nature.com/articles/s41567-023-02001-x)
         
-        - <font size="4">Precision spectroscopy of pionic atoms and chiral symmetry in nuclei</font>
+        - <font size="4.5" style="font-weight: bold;">Precision spectroscopy of pionic atoms and chiral symmetry in nuclei</font>
           
           EPJ Web of Conferences 130, 01017[[link]](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
         
@@ -103,19 +103,19 @@ content:
   - title: Simulations # Title for the section
     layout: list # Type of content section (list/text)
     content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+      - layout: left
+        title: Analysis of spreadding covid-19 based on a renewal process
+        link: https://hiro06190-repo-untitled6-xdak8i.streamlit.app/
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        
+        #additional_links:
+        #  - title:  sproogen/modern-resume-theme
+        #    icon: fab fa-github
+        #    url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+
         description: | # this will include new lines to allow paragraphs
           I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
