@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a currently postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I am studying the periodic behavior of a dynamical system and the derivation of the macroscopic equation by using microscopic models.
+  I am a currently postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I am studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
   
   
   I did my Ph.D. at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
@@ -117,7 +117,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+             I also have studied the initial growth of the epidemic curve of Covid-19 by using a stochastic model. This stochastic model is based on a heavy-tailed renewal process. The COVID-19 data is from Johns Hopkins University data site.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
