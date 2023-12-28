@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Hiroshi Horii
+#title: Postdoctoral researcher
+#email: brett.h@email.co.uk
+#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -48,7 +48,9 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+    I am a currently postdoctoral researcher at the **[Institut Denis Poisson](https://www.idpoisson.fr/)** in Université d’Orléans.
+    I have a Ph.D. in Mathematics
+
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
