@@ -134,7 +134,7 @@ content:
         description: | # this will include new lines to allow paragraphs
              I made a simulation of autoencoder by random forest. This simulation is based on theoretically https://arxiv.org/abs/1709.09018 ,and technically https://github.com/AntoinePassemiers/Encoder-Forest.
              
-             ![Autoencoder Image](images/autoencoder_mnist.jpg)
+             <img src="images/autoencoder_mnist.jpg" style="width: 100px; height: auto; float: left; margin-right: 10px;" alt="Autoencoder Image">
 
              
   - title: Teaching
