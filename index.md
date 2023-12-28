@@ -8,3 +8,4 @@
 layout: default
 ---
 [View PDF](https://HiroshiHorii.github.io/Doctoral_dissertation_Horii.pdf){:target="_blank"}
+
