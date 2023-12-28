@@ -120,7 +120,7 @@ content:
              
       - layout: left
         title: Autoencoder by random forest
-        #link: https://hiro06190-repo-untitled6-xdak8i.streamlit.app/
+        link: https://github.com/Hiro06190/codesummary/blob/main/autoencoder_eforest.py
         # link_text: Project Website
         
         #additional_links:
@@ -132,9 +132,8 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         description: | # this will include new lines to allow paragraphs
-             I made a simulation of autoencoder by random forest. This simulation is based on theoretically https://arxiv.org/abs/1709.09018 ,and technically https://github.com/AntoinePassemiers/Encoder-Forest.
-             
-             <img src="images/autoencoder_mnist.jpg" style="width: 100px; height: auto; float: left; margin-right: 10px;" alt="Autoencoder Image">
+            I made a simulation of autoencoder by random forest. This simulation is based on theoretically "https://arxiv.org/abs/1709.09018", and technically "https://github.com/AntoinePassemiers/Encoder-Forest". I reconstructed experimental data for anomaly detection on low-spec  computer. The prototype code is for MNIST data. Also, we can swich Unsupervised learning to Supervised learning on the code.
+        #<img src="images/autoencoder_mnist.jpg" style="width: 100px; height: auto; float: left; margin-right: 10px;" alt="Autoencoder Image">
 
              
   - title: Teaching
