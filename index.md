@@ -7,3 +7,4 @@
 #
 layout: default
 ---
+[View PDF](https://github.com/Hiro06190/HiroshiHorii.github.io/blob/main/Doctoral_dissertation_Horii.pdf){:target="_blank"}
