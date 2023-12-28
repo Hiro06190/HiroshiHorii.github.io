@@ -22,7 +22,7 @@ github_username:  Hiro06190
 # facebook_username: jekyll
 # flickr_username: jekyll
 #instagram_username: jameswgrant
-#linkedin_username: jameswgrant
+linkedin_username: https://www.linkedin.com/in/hiroshi-horii-5a031a12a/
 # xing_username: jekyll
 # pinterest_username: jekyll
 #youtube_username: globalmtb
@@ -119,8 +119,8 @@ content:
              I also have studied the initial growth of the epidemic curve of Covid-19 by using a stochastic model. This stochastic model is based on a heavy-tailed renewal process. The COVID-19 data is from Johns Hopkins University data site.
              
       - layout: left
-        title: Analysis of the virus spreading covid-19 with a renewal process
-        link: https://hiro06190-repo-untitled6-xdak8i.streamlit.app/
+        title: Autoencoder by random forest
+        #link: https://hiro06190-repo-untitled6-xdak8i.streamlit.app/
         # link_text: Project Website
         
         #additional_links:
@@ -132,7 +132,10 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         description: | # this will include new lines to allow paragraphs
-             I also have studied the initial growth of the epidemic curve of Covid-19 by using a stochastic model. This stochastic model is based on a heavy-tailed renewal process. The COVID-19 data is from Johns Hopkins University data site.
+             I made a simulation of autoencoder by random forest. This simulation is based on theoretically https://arxiv.org/abs/1709.09018 ,and technically https://github.com/AntoinePassemiers/Encoder-Forest.
+             
+             ![Autoencoder Image](images/autoencoder_mnist.jpg)
+
              
   - title: Teaching
     layout: text
