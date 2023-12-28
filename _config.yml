@@ -15,14 +15,14 @@ name: Hiroshi Horii
 darkmode: false
 
 # Social links
-twitter_username: facespics
+#twitter_username: facespics
 github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -49,11 +49,8 @@ additional_links:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a currently postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans.
-  I have a Ph.D. in Mathematics.
+  I did my Ph.D. at [LPSM](https://www.lpsm.paris/) (Laboratoire de Probabilités, Statistique et Modélisation) in Université Paris Cité.
   
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
   - title: Projects # Title for the section
