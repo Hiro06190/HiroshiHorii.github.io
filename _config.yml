@@ -120,8 +120,7 @@ content:
              
       - layout: left
         title: Autoencoder by random forest
-        link: https://github.com/Hiro06190/codesummary
-        /blob/main/autoencoder_eforest.py/
+        link: https://github.com/Hiro06190/codesummary/
         # link_text: Project Website
         
         #additional_links:
