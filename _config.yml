@@ -117,10 +117,10 @@ content:
 
         description: | # this will include new lines to allow paragraphs
              I also have studied the initial growth of the epidemic curve of Covid-19 by using a stochastic model. This stochastic model is based on a heavy-tailed renewal process. The COVID-19 data is from Johns Hopkins University data site.
-    content:
+    
       - layout: left
         title: Autoencoder by random forest
-        link: https://github.com/Hiro06190/codesummary/
+        link: https://hiro06190-repo-untitled6-xdak8i.streamlit.app/
         # link_text: Project Website
         
         #additional_links:
