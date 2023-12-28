@@ -56,10 +56,24 @@ about_content: | # this will include new lines to allow paragraphs
   Here is my [Ph.D. thesis](https://Hiro06190.github.io/HiroshiHorii.github.io/Doctoral_dissertation_Horii.pdf).
   
   
-
-  
-
 content:
+
+
+  - title: Research interests
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics are the following :
+        - Non-equilibrium statistical physics, The application of finite time large deviation theory to understand non-equilibrium phenomena.
+        - Heavy-tailed renewal process, Finite-time large deviation theory with heavy-tailed stochastic processes.
+        - The derivation of macroscopic equations by using microscopic models.
+        - Studying the dynamical systems, bifurcation theory, the method of characteristic, and numerical simulation.
+        - Studying universal property in machine learning methods.
+
+      Look at this cool image
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+      
+      
+      
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
