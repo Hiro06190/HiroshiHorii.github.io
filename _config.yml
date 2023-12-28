@@ -78,20 +78,20 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       
-        - <font size="2">Large Time Asymptotic of Heavy Tailed Renewal Processes.</font>
+        - <font size="6">Large Time Asymptotic of Heavy Tailed Renewal Processes.</font>
           
           Journal of Statistical Physics 186, 11 [[link]](https://link.springer.com/article/10.1007/s10955-021-02856-5)
         
-        - Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions
+        - <font size="6">Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions</font>
           
           PHYSICAL REVIEW E 106 (3), 034130[[link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034130)
         
         I have experience that I joined nuclear physics experiment.
-        - Chiral symmetry restoration at high matter density observed in pionic atoms
+        - <font size="6">Chiral symmetry restoration at high matter density observed in pionic atoms</font>
           
           Nature Physics 19 (6), 788-793[[link]](https://www.nature.com/articles/s41567-023-02001-x)
         
-        - Precision spectroscopy of pionic atoms and chiral symmetry in nuclei
+        - <font size="6">Precision spectroscopy of pionic atoms and chiral symmetry in nuclei</font>
           
           EPJ Web of Conferences 130, 01017[[link]](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
         
