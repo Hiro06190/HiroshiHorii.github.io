@@ -64,11 +64,11 @@ content:
     content: | # this will include new lines to allow paragraphs
       I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics are the following :
       
-        - Non-equilibrium statistical physics, The application of finite time large deviation theory to understand non-equilibrium phenomena.
+        - Non-equilibrium statistical physics, Application of finite time large deviation theory to understand non-equilibrium phenomena.
         
         - Heavy-tailed renewal process and anomalous fluctuations, Finite-time large deviation theory with heavy-tailed stochastic processes.
         
-        - The derivation of macroscopic equations by using microscopic models.
+        - Derivation of macroscopic equations by using microscopic models.
         
         - Studying the dynamical systems, stochastic processes, bifurcation theory, the method of characteristic, and numerical simulation.
         
