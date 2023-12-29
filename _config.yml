@@ -132,7 +132,7 @@ content:
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
 
         description: | # this will include new lines to allow paragraphs
-            I made a simulation of autoencoder by random forest. This simulation is based on theoretically "https://arxiv.org/abs/1709.09018", and technically "https://github.com/AntoinePassemiers/Encoder-Forest". I reconstructed experimental data for anomaly detection. Also, roughly speaking, the eforest is working fast even on low-spec  computer. The prototype code is for MNIST data. Moreover, we can swich Unsupervised learning to Supervised learning on the code.
+            I made a simulation of autoencoder by random forest. This simulation is based on theoretically [[link]](https://arxiv.org/abs/1709.09018), and technically [[link]](https://github.com/AntoinePassemiers/Encoder-Forest). I reconstructed experimental data for anomaly detection. Also, roughly speaking, the eforest is working fast even on low-spec  computer. The prototype code is for MNIST data. Moreover, we can swich Unsupervised learning to Supervised learning on the code.
         #<img src="images/autoencoder_mnist.jpg" style="width: 100px; height: auto; float: left; margin-right: 10px;" alt="Autoencoder Image">
 
              
