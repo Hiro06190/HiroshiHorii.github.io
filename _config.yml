@@ -62,7 +62,7 @@ content:
   - title: Research interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics are the following :
+      I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics in which I'm interested are the following :
       
         - Non-equilibrium statistical physics, Large deviation theory, Analysis of physical and biological systems such as active matter and spin models.
         
