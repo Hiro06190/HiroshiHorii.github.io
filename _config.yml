@@ -55,7 +55,7 @@ about_content: | # this will include new lines to allow paragraphs
   In the first postdoctoral position, I was working in a [system biology laboratory](https://fun.bio.keio.ac.jp/people.html) at Keio University. In this position, I was studying the mathematical structure of machine learning.
   
   
-  I did my Ph.D. at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
+  I did my Ph.D. (mathematics) at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
   
   Here is my [Ph.D. thesis](https://Hiro06190.github.io/HiroshiHorii.github.io/Doctoral_dissertation_Horii.pdf).
   
@@ -66,9 +66,9 @@ content:
   - title: Research interests
     layout: text
     content: | # this will include new lines to allow paragraphs
-      I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics are the following :
+      I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics in which I am interested are the following :
       
-        - Non-equilibrium statistical physics, Application of finite time large deviation theory to understand non-equilibrium phenomena.
+        - Non-equilibrium statistical physics, Large deviation theory, Analysis of physical and biological systems such as active matter and spin models.
         
         - Heavy-tailed renewal process and anomalous fluctuations, Finite-time large deviation theory with heavy-tailed stochastic processes.
         
@@ -76,7 +76,7 @@ content:
         
         - Studying the dynamical systems, stochastic processes, bifurcation theory, the method of characteristics, and numerical simulation.
         
-        - Studying universal property in machine learning methods.
+        - Studying universal property in machine learning methods, for instance, a neural network model.
         
   - title: Publications
     layout: text
@@ -124,7 +124,7 @@ content:
              
       - layout: left
         title: Autoencoder by random forest
-        link: https://github.com/Hiro06190/<br>codesummary/blob/main/<br>autoencoder_eforest.py/
+        link: github.com/Hiro06190/codesummary
         # link_text: Project Website
         
         #additional_links:
