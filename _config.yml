@@ -48,7 +48,11 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a currently postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans, and working with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I am studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
+  I am currently a postdoctoral researcher at [LJLL](https://www.ljll.fr/) in the Sorbonne Université. I am working with [Sophie Hecht](https://sites.google.com/view/sophiehecht/accueil) and [Diane Peurichard](https://sites.google.com/site/dianepeurichard/home) to understand the shape of a colony of bacteria.
+
+  In the previous position, I was a postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans, and working with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I was studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
+  
+  In the first postdoctoral position, I was working in a [system biology laboratory](https://fun.bio.keio.ac.jp/people.html) at Keio University. In this position, I was studying the mathematical structure of machine learning.
   
   
   I did my Ph.D. at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
