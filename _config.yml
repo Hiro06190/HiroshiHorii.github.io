@@ -1,5 +1,7 @@
 # Site
-repository: sproogen/resume-theme
+repository: Hiro06190/HiroshiHorii.github.io
+url: "https://hiro06190.github.io"
+baseurl: "/HiroshiHorii.github.io"
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -15,18 +17,8 @@ email: hiroshi.horii@univ-orleans.fr
 darkmode: false
 
 # Social links
-#twitter_username: facespics
-github_username:  Hiro06190
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
-linkedin_username: https://www.linkedin.com/in/hiroshi-horii-5a031a12a/
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
+github_username: Hiro06190
+linkedin_username: hiroshi-horii-5a031a12a
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
@@ -34,30 +26,21 @@ additional_links:
 - title: itsgoingto.be
   icon: fas fa-globe
   url: https://www.idpoisson.fr/equipe-probabilite-algebre-combinatoire-theorie-ergodique-statistique/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am a currently postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans, and working with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I am studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
+  I am currently a postdoctoral researcher at [LJLL](https://www.ljll.fr/) in the Sorbonne Université. I am working with [Sophie Hecht](https://sites.google.com/view/sophiehecht/accueil) and [Diane Peurichard](https://sites.google.com/site/dianepeurichard/home) to understand the shape of a colony of bacteria.
+
+  In the previous position, I was a postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans, and working with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I was studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
   
+  In the first postdoctoral position, I was working in a [system biology laboratory](https://fun.bio.keio.ac.jp/index.html) at Keio University. In this position, I was studying the mathematical structure of machine learning.
   
   I did my Ph.D. (mathematics) at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
   
   Here is my [Ph.D. thesis](https://Hiro06190.github.io/HiroshiHorii.github.io/Doctoral_dissertation_Horii.pdf).
-  
-  
-content:
 
+content:
 
   - title: Research interests
     layout: text
@@ -66,9 +49,9 @@ content:
       
         - Non-equilibrium statistical physics, Large deviation theory, Analysis of physical and biological systems such as active matter and spin models.
         
-        - Heavy-tailed renewal process and anomalous fluctuations, Finite-time large deviation theory with heavy-tailed stochastic processes.
+        - A heavy-tailed renewal process and anomalous fluctuations, Finite-time large deviation theory with heavy-tailed stochastic processes.
         
-        - Derivation of macroscopic equations by using microscopic models.
+        - Derivation of macroscopic equations by using microscopic models, Studying stochastic hydrodynamics using large deviation and gradient flow.
         
         - Studying the dynamical systems, stochastic processes, bifurcation theory, the method of characteristics, and numerical simulation.
         
@@ -77,6 +60,10 @@ content:
   - title: Publications
     layout: text
     content: | # this will include new lines to allow paragraphs
+    
+        - <font size="4.5" style="font-weight: bold;">Optimal Condition for Initialization Variance in Deep Neural Networks: An SGD Dynamics Perspective.</font>
+          
+          arXiv:2508.12834 [[link]](https://arxiv.org/abs/2508.12834)
       
         - <font size="4.5" style="font-weight: bold;">Large Time Asymptotic of Heavy Tailed Renewal Processes.</font>
           
@@ -84,80 +71,48 @@ content:
         
         - <font size="4.5" style="font-weight: bold;">Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions</font>
           
-          PHYSICAL REVIEW E 106 (3), 034130[[link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034130)
+          PHYSICAL REVIEW E 106 (3), 034130 [[link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034130)
         
         I have experience that I joined a nuclear physics experiment.
         - <font size="4.5" style="font-weight: bold;">Chiral symmetry restoration at high matter density observed in pionic atoms</font>
           
-          Nature Physics 19 (6), 788-793[[link]](https://www.nature.com/articles/s41567-023-02001-x)
+          Nature Physics 19 (6), 788-793 [[link]](https://www.nature.com/articles/s41567-023-02001-x)
         
         - <font size="4.5" style="font-weight: bold;">Precision spectroscopy of pionic atoms and chiral symmetry in nuclei</font>
           
-          EPJ Web of Conferences 130, 01017[[link]](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
-        
+          EPJ Web of Conferences 130, 01017 [[link]](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
 
-
-      
-      
-  - title: Simulations # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Simulations
+    layout: list
     content:
       - layout: left
         title: Analysis of the virus spreading COVID-19 with a renewal process
         link: https://hiro06190-repo-untitled6-xdak8i.streamlit.app/
-        # link_text: Project Website
-        
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        description: | # this will include new lines to allow paragraphs
+        description: |
              I also have studied the initial growth of the epidemic curve of Covid-19 by using a stochastic model. This stochastic model is based on a heavy-tailed renewal process. The COVID-19 data is from Johns Hopkins University data site.
-             
       - layout: left
         title: Autoencoder by random forest
-        link: github.com/Hiro06190/codesummary
-        # link_text: Project Website
-        
-        #additional_links:
-        #  - title:  sproogen/modern-resume-theme
-        #    icon: fab fa-github
-        #    url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-
-        description: | # this will include new lines to allow paragraphs
+        link: https://github.com/Hiro06190/codesummary
+        description: |
             I applied a simulation of autoencoder by random forest to detect anomalous events. This simulation is based on theoretically [[link]](https://arxiv.org/abs/1709.09018), and technically [[link]](https://github.com/AntoinePassemiers/Encoder-Forest). My code is edited based on the original code to be used easily for a lot of data. I reconstructed experimental data for anomaly detection. Also, roughly speaking, the eforest works fast even on a low-spec computer. The prototype code is for MNIST data. Moreover, we can switch Unsupervised learning to Supervised learning on the code.
-        #<img src="images/autoencoder_mnist.jpg" style="width: 100px; height: auto; float: left; margin-right: 10px;" alt="Autoencoder Image">
 
-             
   - title: Teaching
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: |
       
         - 2014: Teaching Assistant for Numerical simulation course at University of Tokyo
 
-
-
-
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
 
 # Build settings
-remote_theme: sproogen/resume-theme
+remote_theme: sproogen/modern-resume-theme
 
 sass:
   sass_dir: _sass
   style: compressed
 
 plugins:
+ - jekyll-remote-theme
  - jekyll-seo-tag
  - jekyll-sitemap
-
-
