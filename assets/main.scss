@@ -1,14 +1,45 @@
 ---
-# Front matter comment to ensure Jekyll properly reads file.
 ---
 
 @import 'modern-resume-theme';
-body {
-    background-color: #f8f8f8;
+
+html { scroll-behavior: smooth; }
+.has-section-nav { margin: 0; }
+.site-main { margin-left: 240px; }
+.site-main .container { width: 100%; max-width: 1080px; padding-left: 32px; padding-right: 32px; }
+.site-main h3[id] { scroll-margin-top: 28px; }
+.site-main .text-container h4 { margin: 34px 0 20px; font-size: 2rem; font-weight: 600; }
+.site-main .text-container li { margin-bottom: 18px; line-height: 1.65; }
+.site-main p, .site-main li { overflow-wrap: anywhere; }
+.section-nav { position: fixed; inset: 0 auto 0 0; width: 240px; padding: 44px 24px; overflow-y: auto; background: #f6f8fa; border-right: 1px solid #dfe5eb; z-index: 20; }
+.section-nav-name { display: block; color: #223c51; font-size: 2rem; font-weight: 600; text-decoration: none; }
+.section-nav-label { margin: 36px 0 12px; color: #5c6974; font-size: 1.2rem; text-transform: uppercase; letter-spacing: .12em; }
+.section-nav ul { margin: 0; padding: 0; list-style: none; }
+.section-nav li { margin: 5px 0; }
+.section-nav li a { display: block; padding: 10px 12px; border-left: 3px solid transparent; border-radius: 0 5px 5px 0; color: #455462; font-size: 1.5rem; line-height: 1.45; text-decoration: none; }
+.section-nav li a:hover, .section-nav li a[aria-current="location"] { background: #e5edf3; border-left-color: #315d7c; color: #183c57; }
+a:focus-visible { outline: 3px solid #39749c; outline-offset: 4px; }
+.skip-link { position: fixed; left: 16px; top: -100px; z-index: 100; padding: 12px 18px; background: white; color: #183c57; }
+.skip-link:focus { top: 12px; }
+.dark .section-nav { background: #242b31; border-color: #455462; }
+.dark .section-nav a, .dark .section-nav-label { color: #e0e7ed; }
+.dark .section-nav li a:hover, .dark .section-nav li a[aria-current="location"] { background: #364854; border-color: #9cc5df; color: white; }
+
+@media screen and (max-width: 1000px) {
+  .site-main { margin-left: 0; }
+  .section-nav { position: relative; width: auto; padding: 18px 20px; border-right: 0; border-bottom: 1px solid #dfe5eb; }
+  .section-nav-name, .section-nav-label { display: none; }
+  .section-nav ul { display: flex; flex-wrap: wrap; gap: 4px 8px; }
+  .section-nav li { margin: 0; }
+  .section-nav li a { padding: 8px 10px; font-size: 1.4rem; }
+  .site-main .container { padding-left: 24px; padding-right: 24px; }
 }
-
-
-.special-text {
-    font-size: 20px; /* 大きさを変更 */
-    /* 他のスタイルをここに追加 */
+@media screen and (min-width: 768px) and (max-width: 1200px) {
+  .site-main .profile-img { width: 150px; height: 150px; }
+}
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+@media print {
+  .section-nav, .skip-link { display: none !important; }
+  .site-main { margin-left: 0; }
+  .site-main .container { max-width: none; padding-left: 0; padding-right: 0; }
 }

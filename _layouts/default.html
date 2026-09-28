@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: 'en' }}">
+  {%- include head.html -%}
+  <body class="has-section-nav {% if site.darkmode == true and site.darkmode != 'never' %}dark{% endif %}">
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <nav class="section-nav no-print" aria-label="Page sections">
+      <a class="section-nav-name" href="#top">{{ site.name | escape }}</a>
+      <p class="section-nav-label">On this page</p>
+      <ul>
+        <li><a href="#{{ site.about_title | default: 'About Me' | slugify }}">{{ site.about_title | default: 'About Me' | escape }}</a></li>
+        {% for section in site.content %}
+          <li><a href="#{{ section.title | slugify }}">{{ section.title | escape }}</a></li>
+        {% endfor %}
+      </ul>
+    </nav>
+    <div class="site-main" id="top">
+      {%- include header.html -%}
+      <main class="page-content" id="main-content" tabindex="-1" aria-label="Content">
+        <div class="wrapper">
+          {%- if jekyll.environment == 'production' and site.gtm -%}
+            {%- include gtm_body.html -%}
+          {%- endif -%}
+          {%- include about.html -%}
+          {% for section in site.content %}
+            <section class="container {{ section.layout }}-container" aria-labelledby="{{ section.title | slugify }}">
+              <h3 id="{{ section.title | slugify }}">{{ section.title }}</h3>
+              {% include {{ section.layout | prepend: 'section-' | append: '.html' }} content=section.content %}
+            </section>
+          {% endfor %}
+        </div>
+      </main>
+      {%- include footer.html -%}
+    </div>
+    {% if site.darkmode == false %}
+      <script src="{{ '/assets/js/index.js' | relative_url }}"></script>
+    {% endif %}
+    <script src="{{ '/assets/js/section-nav.js' | relative_url }}" defer></script>
+  </body>
+</html>

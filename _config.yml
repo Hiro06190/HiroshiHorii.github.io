@@ -23,18 +23,21 @@ linkedin_username: hiroshi-horii-5a031a12a
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.idpoisson.fr/equipe-probabilite-algebre-combinatoire-theorie-ergodique-statistique/
+- title: Google Scholar
+  icon: fab fa-google
+  url: "https://scholar.google.com/citations?user=JMdB6gEAAAAJ&hl=ja"
 
 # About Section
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I am currently a postdoctoral researcher at [LJLL](https://www.ljll.fr/) in the Sorbonne Université. I am working with [Sophie Hecht](https://sites.google.com/view/sophiehecht/accueil) and [Diane Peurichard](https://sites.google.com/site/dianepeurichard/home) to understand the shape of a colony of bacteria.
+  I am currently a postdoctoral researcher at the [Observatoire de la Côte d’Azur](https://www.oca.eu/), working with [Yannick Ponty](https://www.oca.eu/fr/yannick-ponty) and [Florence Marcotte](https://math.univ-cotedazur.fr/u/fmarcotte/index.html). In this project, I focus on the statistical analysis of rare events in magnetohydrodynamics (MHD).
 
-  In the previous position, I was a postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans, and working with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I was studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
+  Previously, I was a postdoctoral researcher at [LJLL](https://www.ljll.fr/) at Sorbonne Université. I worked with [Sophie Hecht](https://sites.google.com/view/sophiehecht/accueil) and [Diane Peurichard](https://sites.google.com/site/dianepeurichard/home) to understand the shape of bacterial colonies.
+
+  In my second postdoctoral position, I was a postdoctoral researcher at the [Institut Denis Poisson](https://www.idpoisson.fr/) in Université d’Orléans, and working with [Nils Berglund](https://www.idpoisson.fr/berglund/) and [Julien Barré](https://www.idpoisson.fr/barre/). In this position, I was studying the periodic behavior of a dynamical system and the derivation of a macroscopic equation by using a microscopic model.
   
   In the first postdoctoral position, I was working in a [system biology laboratory](https://fun.bio.keio.ac.jp/index.html) at Keio University. In this position, I was studying the mathematical structure of machine learning.
+  
   
   I did my Ph.D. (mathematics) at [LPSM](https://www.lpsm.paris/) in Université Paris Cité with [Raphaël Lefevere](https://www.lpsm.paris/users/lefevere/index) and [Takahiro Nemoto](https://sites.google.com/view/takahiro-nemoto) on finite-time large deviation theory and a heavy-tailed renewal process.
   
@@ -42,46 +45,65 @@ about_content: | # this will include new lines to allow paragraphs
 
 content:
 
+  - title: Academic Career
+    layout: text
+    content: |
+      - **Feb 2026–present** — Postdoctoral Researcher, Observatoire de la Côte d’Azur
+      - **Jun 2024–Oct 2025** — Postdoctoral Researcher, Sorbonne Université, LJLL
+      - **Aug 2023–Jun 2024** — Postdoctoral Researcher, Université d’Orléans, Institut Denis Poisson
+      - **Apr 2022–Mar 2023** — Assistant Professor (Research Fellow), Keio University
+      - **Jul 2022** — Ph.D. in Mathematics, Université Paris Cité, LPSM
+
   - title: Research interests
     layout: text
     content: | # this will include new lines to allow paragraphs
       I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics in which I am interested are the following :
       
-        - Non-equilibrium statistical physics, Large deviation theory, Analysis of physical and biological systems such as active matter and spin models.
-        
-        - A heavy-tailed renewal process and anomalous fluctuations, Finite-time large deviation theory with heavy-tailed stochastic processes.
-        
-        - Derivation of macroscopic equations by using microscopic models, Studying stochastic hydrodynamics using large deviation and gradient flow.
-        
-        - Studying the dynamical systems, stochastic processes, bifurcation theory, the method of characteristics, and numerical simulation.
-        
-        - Studying universal property in machine learning methods, for instance, a neural network model.
-        
+        - Non-equilibrium statistical physics, Analysis of physical and biological systems such as active matter and spin models.
+
+        - Heavy-tailed renewal processes and anomalous fluctuations; finite-time large deviation theory for heavy-tailed stochastic processes.
+
+        - Mathematical derivation of macroscopic equations from microscopic models; stochastic hydrodynamics, large deviation principles, and gradient flows.
+
+        - Propagation of chaos.
+
+        - Dynamical systems, stability analysis, and numerical simulation.
+
+        - Universal properties of machine learning methods, including neural network models.
+
   - title: Publications
     layout: text
-    content: | # this will include new lines to allow paragraphs
-    
-        - <font size="4.5" style="font-weight: bold;">Optimal Condition for Initialization Variance in Deep Neural Networks: An SGD Dynamics Perspective.</font>
-          
-          arXiv:2508.12834 [[link]](https://arxiv.org/abs/2508.12834)
-      
-        - <font size="4.5" style="font-weight: bold;">Large Time Asymptotic of Heavy Tailed Renewal Processes.</font>
-          
-          Journal of Statistical Physics 186, 11 [[link]](https://link.springer.com/article/10.1007/s10955-021-02856-5)
-        
-        - <font size="4.5" style="font-weight: bold;">Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions</font>
-          
-          PHYSICAL REVIEW E 106 (3), 034130 [[link]](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.106.034130)
-        
-        I have experience that I joined a nuclear physics experiment.
-        - <font size="4.5" style="font-weight: bold;">Chiral symmetry restoration at high matter density observed in pionic atoms</font>
-          
-          Nature Physics 19 (6), 788-793 [[link]](https://www.nature.com/articles/s41567-023-02001-x)
-        
-        - <font size="4.5" style="font-weight: bold;">Precision spectroscopy of pionic atoms and chiral symmetry in nuclei</font>
-          
-          EPJ Web of Conferences 130, 01017 [[link]](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
+    content: |
+      #### Peer-reviewed publications
 
+      - **Optimal Initialization Scale for Neural Networks With Locally Quadratic Loss Landscapes: An SGD Dynamics Perspective**  
+        Hiroshi Horii and Sothea Has. *IEEE Transactions on Neural Networks and Learning Systems* (2026). [arXiv:2508.12834](https://arxiv.org/abs/2508.12834)
+
+      - **Chiral symmetry restoration in nucleus observed in pionic atoms**  
+        Kenta Itahashi et al. *Acta Physica Polonica A* **146**(5), 721–722 (2024). [Article](https://doi.org/10.12693/APhysPolA.146.721)
+
+      - **Chiral symmetry restoration at high matter density observed in pionic atoms**  
+        Takahiro Nishi et al. *Nature Physics* **19**(6), 788–793 (2023). [Article](https://www.nature.com/articles/s41567-023-02001-x)
+
+      - **Anomalous fluctuations of renewal-reward processes with heavy-tailed distributions**  
+        Hiroshi Horii, Raphaël Lefevere, Masato Itami, and Takahiro Nemoto. *Physical Review E* **106**(3), 034130 (2022). [Article](https://doi.org/10.1103/PhysRevE.106.034130)
+
+      - **Large-time asymptotic of heavy-tailed renewal processes**  
+        Hiroshi Horii, Raphaël Lefevere, and Takahiro Nemoto. *Journal of Statistical Physics* **186**, article 11 (2021). [Article](https://doi.org/10.1007/s10955-021-02856-5)
+
+      - **Precision spectroscopy of pionic atoms and chiral symmetry in nuclei**  
+        Kenta Itahashi et al. *EPJ Web of Conferences* **130**, 01017 (2016). [Article](https://www.epj-conferences.org/articles/epjconf/pdf/2016/25/epjconf_meson2016_01017.pdf)
+
+      #### Preprints
+
+      - **Large deviations, gradient flows and fluctuating hydrodynamics for fractional diffusion**  
+        Julien Barré and Hiroshi Horii. Preprint (2026).
+
+      - **Diffusion stabilises time-periodic solutions in conservation laws coupled to a relaxation oscillator**  
+        Julien Barré, Nils Berglund, and Hiroshi Horii. Preprint (2026). [arXiv:2607.24994](https://arxiv.org/abs/2607.24994)
+
+      - **Pionic atom unveils hidden structure of QCD vacuum**  
+        Takahiro Nishi et al. Preprint (2022). [arXiv:2204.05568](https://arxiv.org/abs/2204.05568)
   - title: Simulations
     layout: list
     content:
