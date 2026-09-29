@@ -59,7 +59,7 @@ content:
     content: | # this will include new lines to allow paragraphs
       I am interested in mathematical physics (or applied mathematics) topics. In particular, I am working on statistical mechanics and probability theory. More specific topics in which I am interested are the following :
       
-        - Non-equilibrium statistical physics, Analysis of physical and biological systems such as active matter and spin models.
+        - Non-equilibrium statistical physics, rare event analysis, analysis of physical and biological systems such as active matter, spin models, and magnetohydrodynamics (MHD).
 
         - Heavy-tailed renewal processes and anomalous fluctuations; finite-time large deviation theory for heavy-tailed stochastic processes.
 
